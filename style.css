@@ -78,8 +78,6 @@ body{
     transition-duration: 0.3s
 }
 
-
-
 @media (max-width : 1280px){
     body{
         height: unset;
